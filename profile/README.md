@@ -14,13 +14,12 @@
   <img src="https://media.tenor.com/HwLQ9DBe5SgAAAAC/anime-coding.gif" width="500">
 </p>
 
-<h2>Our Telegram<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
+<h2>Our Telegram Support <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
 
-<p align="center">
+<p align="centre">
 <a href="https://telegram.me/PythonBotz"><img src="https://img.shields.io/badge/-Update%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
-</p>
-<p align="center">
-<a href="https://telegram.me/Pythonbotz"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+<a href="https://telegram.me/Pythonbotz"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram" width="200" height="35.5"/></a>
+<a href="https://telegram.me/metaui"><img src="https://img.shields.io/badge/-Our%20Owner-black.svg?style=for-the-badge&logo=Telegram" width="150" height="30.5"/></a>
 </p>
 
 
@@ -29,9 +28,10 @@
 
 | 🏆 Role       |  Name  | Telegram | GitHub |
 |--------------|-------------|--------------|--------------|
-| 👑 **Owner** | **[BEN 10](https://github.com/otterai)** |
+| 👑 **Owner** | **[BEN 10](https://github.com/otterai)** | [@metaui](t.me/metaui)| @otterai |
 | 💻 **Lead Developer** | **_[REHAN](t.me/DrSudo)_** |
 | 🤖 **Bot Developer** | **_[HAMZA](https://github.com/ifeelscam)_** |
+| 🍃 **TG Admin** | **_[Asif](https://github.com/ifeelscam)_**|
 | 🔥 **Contributors** | **_[See All](https://github.com/Python-Botz)_** |
 
 <p align="center">
@@ -56,7 +56,6 @@
 🔹 **🤖 Telegram Bots** – Smart & interactive Telegram automation bots  
 🔹 **🎮 Discord Bots** – Powerful bots for Discord servers  
 🔹 **🧠 AI Chatbots** – Intelligent conversational AI bots  
-🔹 **🔍 Web Scrapers** – Fast & efficient data extraction tools  
 🔹 **⚡ Automation Scripts** – Time-saving Python utilities  
 
 🎯 **Each project is well-documented and beginner-friendly!** You can easily **deploy, modify, or contribute.** 😎  
