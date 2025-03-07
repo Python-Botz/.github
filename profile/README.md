@@ -14,7 +14,7 @@
   <img src="https://media.tenor.com/HwLQ9DBe5SgAAAAC/anime-coding.gif" width="500">
 </p>
 
-<h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
+<h2>Our Telegram<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
 
 <p align="center">
 <a href="https://telegram.me/PythonBotz"><img src="https://img.shields.io/badge/-Update%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
@@ -27,16 +27,18 @@
 ## <h2>👑 Meet the Team <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
 
 
-| 🏆 Role       | 🚀 Name / ID |
-|--------------|-------------|
-| 👑 **Owner** | **[Ben 10](https://github.com/otterai)** |
-| 💻 **Lead Developer** | **[Hamza](https://github.com/ifeelscam)** |
-| 🤖 **Bot Developer** | **[Rehan](t.me/drsudo)** |
-| 🔥 **Contributors** | **[See All](https://github.com/Python-Botz)** |
+| 🏆 Role       |  Name  | Telegram | GitHub |
+|--------------|-------------|--------------|--------------|
+| 👑 **Owner** | **[BEN 10](https://github.com/otterai)** |
+| 💻 **Lead Developer** | **_[REHAN](t.me/DrSudo)_** |
+| 🤖 **Bot Developer** | **_[HAMZA](https://github.com/ifeelscam)_** |
+| 🔥 **Contributors** | **_[See All](https://github.com/Python-Botz)_** |
 
 <p align="center">
   <img src="https://media.tenor.com/3sxg0OemfQYAAAAC/anime-hacker.gif" width="500">
 </p>
+
+
 ---
 
 ## 🚀 About Python-Botz  
@@ -58,21 +60,6 @@
 🔹 **⚡ Automation Scripts** – Time-saving Python utilities  
 
 🎯 **Each project is well-documented and beginner-friendly!** You can easily **deploy, modify, or contribute.** 😎  
-
----
-
-## 🛠 How to Contribute?  
-
-💡 **1. Fork & Clone:** Fork the repository and clone it to your system  
-🛠 **2. Code & Improve:** Fix bugs, add new features, or create new bots  
-🔄 **3. Submit a Pull Request:** Share your contributions with the community  
-
-🔥 **Every contribution is valued!** Python-Botz is an open-source community **open for all developers!**  
-
----
-
-
----
 
 ---
 
