@@ -14,6 +14,29 @@
   <img src="https://media.tenor.com/HwLQ9DBe5SgAAAAC/anime-coding.gif" width="500">
 </p>
 
+<h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
+
+<p align="center">
+<a href="https://telegram.me/PythonBotz"><img src="https://img.shields.io/badge/-Update%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+</p>
+<p align="center">
+<a href="https://telegram.me/Pythonbotz"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+</p>
+
+
+## <h2>👑 Meet the Team <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
+
+
+| 🏆 Role       | 🚀 Name / ID |
+|--------------|-------------|
+| 👑 **Owner** | **[Ben 10](https://github.com/otterai)** |
+| 💻 **Lead Developer** | **[Hamza](https://github.com/ifeelscam)** |
+| 🤖 **Bot Developer** | **[Rehan](t.me/drsudo)** |
+| 🔥 **Contributors** | **[See All](https://github.com/Python-Botz)** |
+
+<p align="center">
+  <img src="https://media.tenor.com/3sxg0OemfQYAAAAC/anime-hacker.gif" width="500">
+</p>
 ---
 
 ## 🚀 About Python-Botz  
@@ -48,34 +71,8 @@
 
 ---
 
-## 👑 Meet the Team  
-
-| 🏆 Role       | 🚀 Name / ID |
-|--------------|-------------|
-| 👑 **Owner** | [Ben 10](https://github.com/otterai) |
-| 💻 **Lead Developer** | [Hamza](https://github.com/ifeelscam) |
-| 🤖 **Bot Developer** | [Rehan](t.me/drsudo) |
-| 🔥 **Contributors** | [See All](https://github.com/Python-Botz) |
-
-<p align="center">
-  <img src="https://media.tenor.com/3sxg0OemfQYAAAAC/anime-hacker.gif" width="500">
-</p>
 
 ---
-
-## 📢 Join Our Telegram Community!  
-
-<p align="center">
-  <a href="https://t.me/PythonBotz">
-    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/> <b>Join Our Channel</b>
-  </a>  
-</p>
-
-<p align="center">
-  <a href="https://t.me/offchats">
-    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/> <b>Join Our Group</b>
-  </a>  
-</p>
 
 ---
 
